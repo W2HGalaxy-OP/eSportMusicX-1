@@ -166,9 +166,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/eSport_BOTs"
+                        text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/w2hsupport"
                     ),
-                    InlineKeyboardButton(text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/EsportClan"),
+                    InlineKeyboardButton(text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/w2hsupport"),
                 ]
             ]
         )
@@ -205,10 +205,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/eSport_BOTs"
+                            text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/w2hsupport"
                         ),
                         InlineKeyboardButton(
-                            text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/EsportClan"
+                            text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/w2hsupport"
                         ),
                     ]
                 ]
@@ -222,10 +222,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/eSport_BOTs"
+                            text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/w2hsupport"
                         ),
                         InlineKeyboardButton(
-                            text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/EsportClan"
+                            text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/w2hsupport"
                         ),
                     ]
                 ]
@@ -274,9 +274,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/eSport_BOTs"
+                        text="𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/w2hsupport"
                     ),
-                    InlineKeyboardButton(text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/EsportClan"),
+                    InlineKeyboardButton(text="𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/w2hsupport"),
                 ]
             ]
         )
