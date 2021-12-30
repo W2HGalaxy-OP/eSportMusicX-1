@@ -11,23 +11,23 @@ async def start(_, message: Message):
     
     await message.reply_text(
         f"""**𝗛𝗲𝘆 𝗕𝗮𝗯𝘆 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗮 𝗲𝗦𝗽𝗼𝗿𝘁 𝗠𝘂𝘀𝗶𝗰𝗫 𝗧𝗵𝗲 𝗙𝗮𝘀𝘁𝗲𝘀𝘁 𝗮𝗻𝗱 𝗡𝗲𝘅𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗦𝘂𝗽𝗲𝗿 𝗛𝗶𝗴𝗵 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗠𝘂𝘀𝗶𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 𝘄𝗶𝘁𝗵 𝗖𝗼𝗼𝗹 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗙𝗼𝗿 𝗬𝗼𝘂...
-𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗕𝘆 : [𝗛𝗲𝘅𝗼𝗿 𝘅𝗗](https://t.me/Its_Hexor)**
+𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗕𝘆 : [𝗛𝗲𝘅𝗼𝗿 𝘅𝗗](https://t.me/w2h_ravan)**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/Sanki_Owner")
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/w2h_ravan")
                   ],[
                     InlineKeyboardButton(
-                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/AboutHexor"
+                        "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/w2h_userbot"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/eSportClan"
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/w2h_ravan"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "❰𝗖𝗼𝗺𝗺𝗮𝗱𝘀❱", url="https://telegra.ph/eSport-MusicX-Command-11-30"
+                        "❰𝗖𝗼𝗺𝗺𝗮𝗱𝘀❱", url="https://telegra.ph/file/215f17601572293033070.jpg"
                     )]
             ]
         ),
@@ -41,7 +41,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/AboutHexor")
+                        "𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/w2h_userbot")
                 ]
             ]
         )
