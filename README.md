@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
+<p align="center"><a href="https://t.me/w2hsupport"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
 <p align="center">
     <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
@@ -77,4 +77,4 @@ python3 main.py # Run the bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 
 ### Support & Updates 🎑
-<a href="https://t.me/EsportClan"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/eSport_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/w2hsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/w2h_userbot"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
